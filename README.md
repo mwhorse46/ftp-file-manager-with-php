@@ -7,3 +7,5 @@ The project is under development.
 <li>Browse Any Directory (Available)</li>
 <li>Upload File (Available)</li>
 <li>Download File (Unavailable)</li>
+
+<center><small>Copyright(c) 2022 Coding Mahib</small></center>
