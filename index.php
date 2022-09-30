@@ -213,9 +213,6 @@ if($id == 2){
     ftp_login($ftp_connect,$uname,$pass);
     //ftp_put($ftp_connect,'localfile.txt','local.txt',FTP_ASCII);
     
-    if(!dirname("trash/".$uname."/")){
-        mkdir('trash/'.$uname);
-    }
     ?>
     <div class="container" id="menu">
     <br />
