@@ -1,5 +1,5 @@
 <?php
-//@ini_set('display_errors', 'Off');
+@ini_set('display_errors', 'Off');
 /*
  * Author: Coding Mahib
  * Web: codinmahib.weekbly.com
