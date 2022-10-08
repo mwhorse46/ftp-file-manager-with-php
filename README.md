@@ -8,4 +8,4 @@ The project is under development.
 <li>Upload File (Available)</li>
 <li>Download File (Unavailable)</li>
 
-<center><small style="padding: 10px;background-color: black;color: white">Copyright(c) 2022 Coding Mahib</small></center>
+___Copyright(c) 2022 Coding Mahib___
