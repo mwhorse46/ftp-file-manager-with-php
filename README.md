@@ -8,4 +8,6 @@ The project is under development.
 <li>Upload File (Available)</li>
 <li>Download File (Unavailable)</li>
 
+<h2>The product is no longer maintained</h2>
+
 ___Copyright(c) 2022 Coding Mahib___
